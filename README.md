@@ -2,7 +2,7 @@
 
 <img width="1049" alt="Event _Poster" src="https://user-images.githubusercontent.com/103310345/203969240-7b1a2d63-27ba-46e1-918e-3d5b79b096ca.png">
 
-As a _Microsoft Learn Student Ambassador_, I had the opportunity to conduct a Hands-on Session/workshop on 19th Nov,2022 on <br>"**Prediction Using Supervised Machine Learning**".
+As a _Microsoft Learn Student Ambassador_, I had the opportunity to conduct a Hands-on Session/workshop on 19th Nov,2022 on "**Prediction Using Supervised Machine Learning**".
 
 ### Aim
 
