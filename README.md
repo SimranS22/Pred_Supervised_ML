@@ -18,6 +18,6 @@ This workshop covers the following topics :
 5. Perform Predictions using supervised Machine Learning: Hands-on Session
 
 **Check out the workshop here :**
-<a href="https://stdntpartners.sharepoint.com/sites/MSPOpen2/_layouts/15/stream.aspx?id=%2Fsites%2FMSPOpen2%2FShared%20Documents%2FAmbassador%20Events%2FRecordings%2FPrediction%20Using%20Supervised%20Machine%20Learning%2D20221119%5F170839%2DMeeting%20Recording%2Emp4">Prediction Using Supervised Machine Learning</a>
+<a href="https://drive.google.com/file/d/1VauzvLEkmYJsYk6F-0pgEbcrv0OvJLZw/view?usp=sharing">Prediction Using Supervised Machine Learning</a>
 
 **NOTE: This project was executed using Azure Notebooks in the workshop. However, I have replicated it here using Github Codespaces.**
